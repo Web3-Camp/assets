@@ -1,3 +1,3 @@
-#web3camp assets
+## web3camp assets
 
 Logo
