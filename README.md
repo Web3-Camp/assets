@@ -1,3 +1,5 @@
-## web3camp assets
+## Web3Camp Assets Repo
 
-Logo
+This repo contains all graphic designs for Web3Camp.
+
+Thanks to @li
